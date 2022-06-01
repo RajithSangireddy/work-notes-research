@@ -1,0 +1,14 @@
+Multi Cloud Assets Coverage
+Discovery Capabilities , Assets Inventory
+IAM Misconfiguration and Identity Threats
+Behavioural Assessment and Malware Detection
+Security Misconfiguration / Cloud misconfigurations
+Security Standards and Compliance
+Investigation Capabilities (cSOC)
+Network and Application level firewalls (Security groups)
+Remediation Recommendations
+Usability, ease of use and User experience (POV, Filtering, Queries) 
+Precise prioritization and low false positives rate
+CI/CD Security Capabilities
+Roadmap (API Security, Rich Context, XDR )
+Design Partnership
